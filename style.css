@@ -30,7 +30,7 @@
 }
 
 .menu ul {
-  list-style;
+  list-style:none;
 }
 
 .menu ul li a {
@@ -39,6 +39,8 @@
   display:block;
   text-align:center;
   color:#FFF;
-  
+  text-decoration:none;
 }
+
+.
 
