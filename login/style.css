@@ -272,7 +272,7 @@ form {
 #alertBox {
   position: fixed;
   top: 20px;
-  left: 50%;
+  left: 70%;
   transform: translateX(-50%);
   z-index: 999;
 }
